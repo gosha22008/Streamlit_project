@@ -8,4 +8,4 @@ This meticulously curated dataset presents an insightful collection of 500 Insta
 
 Автор - Егошин Ю.Д.
 
-[Работающий проект]()
+[Работающий проект](https://appproject-j2pkko3dnhmfuqdcmvhpow.streamlit.app/)
