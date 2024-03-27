@@ -68,7 +68,7 @@ if upload_file:
     plt.title('гистограмма оценок')
     st.pyplot()
 
-    
+st.set_option('deprecation.showPyplotGlobalUse', False) 
 data = np.random.randn(1000)
 # Создаем гистограмму
 plt.hist(data)
